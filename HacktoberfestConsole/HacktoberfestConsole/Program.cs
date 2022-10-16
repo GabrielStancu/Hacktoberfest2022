@@ -1,6 +1,6 @@
 ﻿var prStatus1 = "Pending_Modified...";
 var prStatus2 = "Pending_Modified...";
-var prStatus3 = "Pending...";
+var prStatus3 = "Pending_Modified...";
 var prStatus4 = "Pending...";
 
 Console.WriteLine($"PR1: {prStatus1}");
