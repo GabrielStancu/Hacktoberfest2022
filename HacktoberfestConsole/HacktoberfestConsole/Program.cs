@@ -1,5 +1,5 @@
 ﻿var prStatus1 = "Pending_Modified...";
-var prStatus2 = "Pending...";
+var prStatus2 = "Pending_Modified...";
 var prStatus3 = "Pending...";
 var prStatus4 = "Pending...";
 
